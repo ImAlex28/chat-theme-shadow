@@ -8,7 +8,7 @@ Chat with shadowed text for FiveM.
 3. Add this line to your server.cfg: start chat-theme-shadow
 
 # Chat preview
-![image](https://user-images.githubusercontent.com/115694318/207602057-ab414225-0b6b-4512-8cdb-773f92672eb2.png)
+![image](https://user-images.githubusercontent.com/115694318/207604586-a2954276-1cf1-41cf-aeb1-3dc569a44581.png)
 
 # License
 You can use and modify this resources as you whish, as long as it's a non-profit use. You MUST give credit for the base resource.
