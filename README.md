@@ -1,4 +1,4 @@
-# Shadowed Text Chat Theme
+# [FIVEM] Shadowed Text Chat Theme
 Chat with shadowed text for FiveM.
 
 # Installation
