@@ -3,7 +3,7 @@ Chat with shadowed text for FiveM.
 
 # Installation
 
-1. Download the resource from releases page.
+1. Download the resource folder (chat-theme-shadow-main) from releases page.
 2. Drag the chat-theme-shadow folder to your server resources folder.
 3. Add this line to your server.cfg: start chat-theme-shadow
 
