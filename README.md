@@ -10,6 +10,5 @@ Chat with shadowed text for FiveM.
 # Chat preview
 ![image](https://user-images.githubusercontent.com/115694318/207602057-ab414225-0b6b-4512-8cdb-773f92672eb2.png)
 
-# Usage
-
+# License
 You can use and modify this resources as you whish, as long as it's a non-profit use. You MUST give credit for the base resource.
